@@ -1,0 +1,19 @@
+{
+  "name": "audio-correlation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woosungchu/audio-correlation.git"
+  },
+  "author": "woosungchu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woosungchu/audio-correlation/issues"
+  },
+  "homepage": "https://github.com/woosungchu/audio-correlation#readme"
+}
